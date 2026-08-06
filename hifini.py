@@ -5,6 +5,7 @@ HIFINI 音乐磁场自动签到脚本 (hifini.net)
 精简版 - 无需提取sign参数
 """
 
+import os
 import requests
 import json
 from datetime import datetime
